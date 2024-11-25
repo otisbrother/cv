@@ -16,7 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=otisbrother&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://www.paypal.com/paypalme/huytoa) 
+  -Banking:
+  ![image](https://github.com/user-attachments/assets/07d7621e-3de6-41bb-b83f-9893ed62d05c)
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
